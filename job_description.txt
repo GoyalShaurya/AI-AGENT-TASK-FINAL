@@ -1,0 +1,6 @@
+We are looking for a Data Analyst Intern with the following skills:
+- Strong knowledge of Python and SQL
+- Experience with machine learning models (regression, classification)
+- Ability to work with large datasets and clean messy data
+- Good communication and presentation skills
+- Familiarity with data visualization tools like Power BI or Tableau is a plus
