@@ -1,0 +1,15 @@
+Shaurya
+Email: shauryagoyal89@gmail.com | Phone: 9116616700
+
+Education:
+B.Tech, Chemical Science and Technology (ongoing)
+
+Skills:
+Python, Machine Learning basics, SQL, R, C/C++
+
+Projects:
+- Farmer Income Prediction Model - used XGBoost, Random Forest and Ridge regression, combined using ensemble blending
+- Grid Electricity Demand Forecasting (Predictive Paradox) - built using Python and scikit-learn for forecasting demand
+
+Experience:
+- Participated in IIT Guwahati Consulting and Analytics Club hackathon (ML task on NHANES dataset)
