@@ -1,0 +1,50 @@
+**Your Name**
+**Address**
+**Phone Number**
+**Email**
+**LinkedIn Profile (optional)**
+
+**Objective:**
+To secure a Data Analyst Intern position where I can apply my skills in data analysis, machine learning, and data visualization to drive business growth and improve decision-making.
+
+**Education:**
+- Currently pursuing B.Tech in Computer Science, **University Name** (Expected Graduation: **Date**)
+  - Relevant coursework: Data Structures, Algorithms, Database Management Systems, Machine Learning, and Statistics
+
+**Experience:**
+- **Data Analysis Project**, **Project Duration**
+  - Collaborated with a team to analyze a dataset of **dataset size**, identifying trends and patterns, and presented findings using **data visualization tools**
+  - Utilized Python and SQL to clean and preprocess the data, applying machine learning models to predict **target variable**
+  - Gained valuable insights into the importance of data quality and the impact of data visualization on storytelling
+- **Hackathon Participation**, **Hackathon Name**, **Date**
+  - Collaborated with a team to develop a predictive model using machine learning algorithms to solve a real-world problem
+  - Presented the project to a panel of judges, receiving feedback on the approach and implementation
+
+**Skills:**
+- **Technical Skills:**
+  - Programming languages: Python, SQL
+  - Data analysis libraries: Pandas, NumPy, Matplotlib, Scikit-learn
+  - Data visualization tools: Tableau, Power BI
+  - Machine learning models: Regression, Classification (Logistic Regression, Decision Trees)
+- **Soft Skills:**
+  - Communication: Effectively presented projects and ideas to teams and audiences
+  - Teamwork: Collaborated with cross-functional teams to achieve common goals
+  - Time management: Managed multiple projects and tasks to meet deadlines
+  - Problem-solving: Applied critical thinking and analytical skills to solve complex problems
+
+**Projects:**
+- **Data Analysis and Visualization**
+  - Analyzed a dataset of **dataset size** to identify trends and patterns
+  - Created visualizations using Tableau to present findings to stakeholders
+  - Applied machine learning models to predict **target variable**
+- **Machine Learning Model Development**
+  - Developed a classification model using Logistic Regression and Decision Trees to solve a real-world problem
+  - Evaluated the model's performance using metrics such as accuracy and precision
+  - Presented the project to a panel of judges, receiving feedback on the approach and implementation
+
+**Certifications/Awards:**
+- **Certification/Award Name**, **Issuing Organization**, **Date**
+- **Certification/Award Name**, **Issuing Organization**, **Date**
+
+**References:**
+- Available upon request
